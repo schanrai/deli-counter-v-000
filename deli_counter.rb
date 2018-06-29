@@ -9,7 +9,7 @@ def line (katz_deli)
     katz_deli.each_with_index do |name, number| 
     current_line << "#{number+1}. #{name}" 
     end
-    
+    puts current_line
     #katz_deli.inject { |number,name| puts "The line is currently: #{number+1}. #{name}"}
   end 
 end
