@@ -14,4 +14,3 @@ def line (katz_deli)
   end 
 end
 
- #1. Logan 2. Avi 3. Spence
